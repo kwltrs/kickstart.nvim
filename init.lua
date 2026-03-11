@@ -163,7 +163,6 @@ vim.o.cursorline = true
 -- instead raise a dialog asking if you wish to save the current file(s)
 -- See `:help 'confirm'`
 vim.o.confirm = true
->>>>>>> 58170c7ae38e5d8461c2e55ad07d95f0af161685
 
 -- [[ Basic Keymaps ]]
 --  See `:help vim.keymap.set()`
